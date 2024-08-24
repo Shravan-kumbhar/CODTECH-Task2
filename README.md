@@ -8,6 +8,9 @@
 
 ## OVERVIEW OF THE PROJECT:
 
+<img width="960" alt="Screenshot 2024-08-24 214657" src="https://github.com/user-attachments/assets/9fe56120-e8b7-4b64-994e-b4453e38e148">
+
+
 ## PROJECT: To-Do List:
 
 ## KEY ACTIVITIES
